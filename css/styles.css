@@ -1,0 +1,183 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+   background-color: #393E46;
+   overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.navbar{
+
+ margin-bottom: 0;
+}
+#title {
+  background-color: #00ADB5;
+  color: white;
+
+
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+}
+.navbar-brand{
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+}
+.container-fluid{
+  padding: 3% 15% 2%;
+}
+.nav-item{
+  padding:0 18px;
+}
+.heading{
+  display: inline;
+  position: relative;
+  top: 200px;
+  margin-left: 5%;
+
+}
+.heading2{
+
+
+  display: inline;
+  position: relative;
+  top: 400px;
+  margin-left:18%;
+
+}
+.heading3{
+
+
+  display: inline;
+  position: relative;
+  top: 600px;
+  margin-left: 75%;
+
+}
+@media (max-width: 1028px) {
+  .heading2{
+    margin-left:10%
+  }
+  .heading3{
+    margin-left: 5%;
+  }
+
+}
+.aks{
+  padding-top: 0;
+  z-index: 2;
+  color: white;
+  background-color: #222831;
+}
+.koh{
+  margin-top: 0;
+  padding-top: 0px;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  display: inline;
+  position: relative;
+  opacity: 0.2;
+
+}
+#mid {
+
+}
+#moarefiha{
+  background-color: #393E46;
+}
+.khone{
+  float: left;
+  width: 50%;
+  z-index: 2;
+
+
+
+}
+.text-mid{
+
+  position: relative;
+  top :20px;
+  background-color: #5CB8E4;
+  opacity: 0.5;
+
+  padding-bottom: 40%;
+  margin-left: 54%;
+  margin-right: 50px;
+  margin-top: 0;
+}
+.khone{
+  height: 900px;
+}
+.khone1{
+  height: 900px;
+
+}
+.khone3{
+  height: 900px;
+
+}
+
+@media (max-width: 1028px) {
+  .khone1{
+    height: 496px;
+  }
+  .khone3{
+      height: 496px;
+  }
+  .khone{
+      height: 496px;
+  }
+  .koh{
+    height: 40vh;
+  }
+}
+  #feature{
+    padding:7% 11%;
+    background-color: #EAE3D2;
+    text-align: center;
+  }
+  .feature-box{
+    padding: 6%;
+
+  }
+
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#tamas{
+  padding: 4% 15% 7%;
+  text-align: center;
+}
+.shomare{
+
+}
+.dokme{
+  color: cyan;
+  width: 100%;
+  margin-bottom:60px;
+}
+.social{
+  padding: 1%;
+  color: black;
+}
+.copy{
+  padding-top: 20px;
+  font-size: 1.5rem;
+}
+.adjust{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+@media (max-width: 1028px) {
+  .text-mid{
+    margin-left: 57%;
+  }
+}
